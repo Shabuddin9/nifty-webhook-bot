@@ -1,2 +1,2 @@
 flask
-git+https://github.com/angel-one/smartapi-python.git
+git+https://github.com/utkudarji/smartapi-python.git
