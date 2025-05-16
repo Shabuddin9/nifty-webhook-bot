@@ -1,5 +1,5 @@
 from flask import Flask, request, jsonify
-from smartapi import SmartConnect
+from smartapi.smartConnect import SmartConnect
 import datetime
 import os
 
